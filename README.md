@@ -28,7 +28,7 @@
 
 ## Contributing
 
-Found a bug or have an idea? See [CONTRIBUTING.md](CONTRIBUTING.md). The source code is not published in this repo, so contributions are bug reports, ideas and documentation improvements.
+Found a bug or have an idea? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 
